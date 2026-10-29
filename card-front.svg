@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3.75in" height="2.25in" viewBox="0 0 1125 675" role="img" aria-labelledby="title desc">
+<title id="title">VAPERS digital loyalty card — front</title><desc id="desc">Premium loyalty card with blue vapor, ten stamp spaces, a unique QR code area and buy ten get one free reward.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101a"/><stop offset=".52" stop-color="#101d2a"/><stop offset="1" stop-color="#071622"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#56efff"/><stop offset=".48" stop-color="#2687ff"/><stop offset="1" stop-color="#664eff"/></linearGradient>
+ <linearGradient id="metal" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0a111b"/><stop offset=".2" stop-color="#253c51"/><stop offset=".42" stop-color="#6de4ff"/><stop offset=".58" stop-color="#172b3e"/><stop offset=".82" stop-color="#0a101a"/><stop offset="1" stop-color="#5ddfff"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#74eaff" stop-opacity=".56"/><stop offset="1" stop-color="#1c7dee" stop-opacity=".08"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#196af9" stop-opacity=".32"/><stop offset="1" stop-color="#196af9" stop-opacity="0"/></radialGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="15"/></filter><filter id="soft"><feGaussianBlur stdDeviation="6"/></filter>
+ <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#000" flood-opacity=".6"/></filter>
+ <clipPath id="clip"><rect width="1125" height="675" rx="34"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1125" height="675" fill="url(#bg)"/>
+ <ellipse cx="1008" cy="240" rx="300" ry="300" fill="url(#halo)"/>
+ <path d="M-60 210C75 77 150 253 264 158s167-6 222-80 160-66 206 6" fill="none" stroke="#55cfff" stroke-opacity=".18" stroke-width="64" filter="url(#blur)"/>
+ <path d="M-70 242C40 130 154 302 260 205s168-24 229-94 141-55 198-8" fill="none" stroke="#9aecff" stroke-opacity=".28" stroke-width="10" filter="url(#soft)"/>
+ <path d="M730 135c90-88 182 7 145 73-33 61-135 39-133 101 2 49 80 62 138 12 48-42 91-38 128-7" fill="none" stroke="#50c5ff" stroke-opacity=".36" stroke-width="14" filter="url(#soft)"/>
+ <path d="M822 111c72-42 124-10 134 24 10 33-19 58-48 56" fill="none" stroke="#b0f4ff" stroke-opacity=".2" stroke-width="7"/>
+ <path d="M98 420c74-72 148-44 143 8-4 46-67 47-66 87 1 41 70 58 128-5" fill="none" stroke="#4db8ff" stroke-opacity=".2" stroke-width="17" filter="url(#soft)"/>
+ <path d="M40 402c55-50 94-38 107-11 11 24-1 47-30 54" fill="none" stroke="#b5f6ff" stroke-opacity=".2" stroke-width="6"/>
+
+ <g opacity=".16" stroke="#d3f8ff" stroke-width="1"><path d="M0 600 380 220M30 675 520 185M520 675 1050 145M730 675 1125 280"/></g>
+ <rect x="2" y="2" width="1121" height="671" rx="32" fill="none" stroke="#63839a" stroke-opacity=".48" stroke-width="3"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+ <path d="M54 47h47l18 18-18 18H54" fill="none" stroke="url(#blue)" stroke-width="5" stroke-linejoin="round"/>
+ <text x="139" y="83" fill="#f7fbff" font-size="57" font-weight="900" letter-spacing="5">VAPERS</text>
+ <text x="143" y="116" fill="#99b0c2" font-size="14" font-weight="700" letter-spacing="5">LOYALTY CARD</text>
+ <g transform="translate(846 42)"><rect width="192" height="48" rx="24" fill="#10283a" stroke="#59d8ff" stroke-opacity=".66"/><circle cx="24" cy="24" r="6" fill="#59efd2"/><text x="43" y="30" fill="#e5f7ff" font-size="14" font-weight="800" letter-spacing="2">MEMBER PASS</text></g>
+ <text x="63" y="177" fill="#9db7c7" font-size="14" font-weight="800" letter-spacing="3">COLLECT 10 STAMPS</text>
+ <text x="1042" y="177" text-anchor="end" fill="#71d7ff" font-size="12" font-weight="800" letter-spacing="1">ONE PER QUALIFYING PURCHASE</text>
+</g>
+<!--STAMP_START--><g font-family="Arial,Helvetica,sans-serif" text-anchor="middle" filter="url(#shadow)">
+ <g fill="#f0f8fc" fill-opacity=".97" stroke="url(#blue)" stroke-width="4"><circle cx="125" cy="250" r="36"/><circle cx="290" cy="250" r="36"/><circle cx="455" cy="250" r="36"/><circle cx="620" cy="250" r="36"/><circle cx="785" cy="250" r="36"/><circle cx="125" cy="348" r="36"/><circle cx="290" cy="348" r="36"/><circle cx="455" cy="348" r="36"/><circle cx="620" cy="348" r="36"/><circle cx="785" cy="348" r="36"/></g>
+ <g fill="#102336" font-size="17" font-weight="900" letter-spacing="1"><text x="125" y="256">01</text><text x="290" y="256">02</text><text x="455" y="256">03</text><text x="620" y="256">04</text><text x="785" y="256">05</text><text x="125" y="354">06</text><text x="290" y="354">07</text><text x="455" y="354">08</text><text x="620" y="354">09</text><text x="785" y="354">10</text></g>
+</g><!--STAMP_END-->
+
+<g font-family="Arial,Helvetica,sans-serif">
+ <rect x="56" y="427" width="1012" height="130" rx="20" fill="#0d2940" fill-opacity=".94" stroke="#369fe2" stroke-opacity=".8" stroke-width="2"/>
+ <path d="M56 447q0-20 20-20h8v130h-8q-20 0-20-20z" fill="url(#blue)"/>
+ <text x="105" y="470" fill="#66e4f5" font-size="13" font-weight="800" letter-spacing="4">YOUR REWARD</text>
+ <text x="105" y="522" fill="#fff" font-size="37" font-weight="900" letter-spacing="1">BUY 10  /  GET 1 FREE</text>
+ <text x="1038" y="536" text-anchor="end" fill="#b8d0de" font-size="14" font-weight="700" letter-spacing="1">REDEEM IN STORE</text>
+ <path d="M58 583H1068" stroke="#38556a" stroke-width="2"/>
+ <text x="59" y="619" fill="#9eb1be" font-size="13" font-weight="700" letter-spacing="2">MEMBER NAME</text><text id="member-name" x="190" y="620" fill="#f7fbff" font-size="18" font-weight="800">Your Name</text><text id="member-code" x="520" y="620" fill="#91a5b3" font-size="11" font-weight="700">VAP-MEMBER</text>
+ <text x="1040" y="620" text-anchor="end" fill="#91a5b3" font-size="12" font-weight="800" letter-spacing="1">18+ ONLY  ·  TERMS APPLY</text>
+ <text x="1060" y="650" text-anchor="end" fill="#6ce8ff" font-size="10" font-weight="800" letter-spacing="1.6">✦ CREATED BY HOOLEESHEET</text>
+</g>
+<!--QR_START--><g id="qr-placeholder"><rect x="867" y="193" width="222" height="222" rx="17" fill="#fff"/><text x="978" y="397" text-anchor="middle" fill="#40586b" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="800" letter-spacing="1">SCAN FOR YOUR CARD</text></g><!--QR_END-->
+</svg>
