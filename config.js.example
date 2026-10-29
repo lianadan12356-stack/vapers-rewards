@@ -1,0 +1,7 @@
+// Copy this file to config.js and fill in the public Supabase project values.
+// Use the publishable key in browser code. Access is protected by the RLS
+// policies and RPC checks in schema.sql. NEVER put a secret/service_role key here.
+window.VAPERS_CONFIG = {
+  supabaseUrl: 'https://YOUR-PROJECT.supabase.co',
+  supabasePublishableKey: 'YOUR-PUBLISHABLE-KEY'
+};
